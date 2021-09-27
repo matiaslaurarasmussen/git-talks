@@ -9,6 +9,12 @@ A list of great talks about git
 ## Tips & Tricks
 
 * [Advanced GIT for Developers - Lorna Jane Mitchell](https://www.youtube.com/watch?v=duqBHik7nRo&ab_channel=LaraconEU)
+* [Getting out of trouble by understanding Git by Steve Smith](https://www.youtube.com/watch?v=sevc6668cQ0&t=213s&ab_channel=Devoxx)
+* [git-driven refactoring](https://www.youtube.com/watch?v=e9K1gHYIE2c&ab_channel=GitHub)
+
+## Alternative use cases
+
+* [Version control for law](https://www.youtube.com/watch?v=SmLpJEZyvI0&ab_channel=GitHub)
 
 ## History
 
