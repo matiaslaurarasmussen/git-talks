@@ -4,6 +4,7 @@ A list of great talks about git
 ## 2017
 
 [Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=fBP18-taaNw&ab_channel=NDCConferences)
+[Git Internals](https://www.youtube.com/watch?v=P6jD966jzlk&ab_channel=GitLab)
 
 ## 2015
 
