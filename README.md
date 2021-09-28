@@ -11,6 +11,7 @@ A list of great talks about git
 * [Advanced GIT for Developers - Lorna Jane Mitchell](https://www.youtube.com/watch?v=duqBHik7nRo&ab_channel=LaraconEU)
 * [Getting out of trouble by understanding Git by Steve Smith](https://www.youtube.com/watch?v=sevc6668cQ0&t=213s&ab_channel=Devoxx)
 * [git-driven refactoring](https://www.youtube.com/watch?v=e9K1gHYIE2c&ab_channel=GitHub)
+* [Git at Google: Making Big Projects (and Everyone Else) Happy, Dave Borowitz](https://www.youtube.com/watch?v=cY34mr71ky8&list=RDCMUC7c3Kb6jYCRj4JOHHZTxKsQ&index=8&ab_channel=GitHub)
 
 ## Alternative use cases
 
