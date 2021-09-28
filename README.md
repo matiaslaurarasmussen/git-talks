@@ -2,6 +2,7 @@
 A list of great talks about git
 
 ## How git works
+### Start here if git confuses you
 
 * [Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=fBP18-taaNw&ab_channel=NDCConferences)
 * [Git Internals](https://www.youtube.com/watch?v=P6jD966jzlk&ab_channel=GitLab)
