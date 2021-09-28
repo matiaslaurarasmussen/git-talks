@@ -6,7 +6,7 @@ A list of great talks about git
 * [Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=fBP18-taaNw&ab_channel=NDCConferences)
 * [Git Internals](https://www.youtube.com/watch?v=P6jD966jzlk&ab_channel=GitLab)
 
-## Using git effectively
+## Efficient git
 
 * [Advanced GIT for Developers - Lorna Jane Mitchell](https://www.youtube.com/watch?v=duqBHik7nRo&ab_channel=LaraconEU)
 * [Getting out of trouble by understanding Git by Steve Smith](https://www.youtube.com/watch?v=sevc6668cQ0&t=213s&ab_channel=Devoxx)
