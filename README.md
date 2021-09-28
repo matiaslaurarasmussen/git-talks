@@ -1,14 +1,12 @@
 # git-talks
-A list of great talks about git
+A list of great talks that will help you understand git and use it more efficiently.
 
 ## How git works
-### Start here if git confuses you
-
+If you are confused about git, I recommend that you start here
 * [Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=fBP18-taaNw&ab_channel=NDCConferences)
 * [Git Internals](https://www.youtube.com/watch?v=P6jD966jzlk&ab_channel=GitLab)
 
 ## Efficient git
-
 * [Advanced GIT for Developers - Lorna Jane Mitchell](https://www.youtube.com/watch?v=duqBHik7nRo&ab_channel=LaraconEU)
 * [Getting out of trouble by understanding Git by Steve Smith](https://www.youtube.com/watch?v=sevc6668cQ0&t=213s&ab_channel=Devoxx)
 * [git-driven refactoring](https://www.youtube.com/watch?v=e9K1gHYIE2c&ab_channel=GitHub)
